@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=MuseoModerno:wght@300&family=Poppins&family=Roboto:wght@700&family=Rubik+Doodle+Shadow&display=swap');
+
+
+#feedback{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ gap: 30px;
+ background:grey;
+ width: auto;
+}
+
+.inputbox{
+    position: relative;
+    width: 200px;
+}
+
+.inputbox input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.general{
+    font-family:Rubik Doodle Shadow;
+    color: black;
+}
+
+.box{
+    padding: 0px;
+    margin: 10px;
+    border: 100px;
+    width: 650px;
+}
+
+#github{
+    color: black;
+}
+
+#backimg{
+    background-color:saddlebrown;
+}
+
+
+
+
+
+

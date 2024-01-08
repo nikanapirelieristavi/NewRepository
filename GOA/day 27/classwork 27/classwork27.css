@@ -13,6 +13,11 @@ h1, h2{
 .listcolor{
     color:darkgreen
 }
+element{
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
 #element1{
     position: absolute;
     top: 95px;
